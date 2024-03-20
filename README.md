@@ -5,7 +5,8 @@ To run the Magical_Assignment simulation and unit tests in your Node.js project,
 using nodejs the project is done
 In player.js the constructor initialize the new player object wuth three attributes "health", "stregnth" and "attack".
 in arena .js it defines a simple arena simulation where two players engage in a battle, taking turns attacking and defending until one of them is defeated.
-index.js file it is the main file were we run the code
+index.js file it is the main file were we run the code.
+
 for running the file
 command is
 node index.js
